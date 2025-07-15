@@ -1,0 +1,8 @@
+studio/
+├── migrations/       # 数据库迁移文件目录
+├── __init__.py
+├── admin.py          # 后台管理配置
+├── apps.py           # App配置
+├── models.py         # 数据模型定义
+├── tests.py          # 测试代码
+└── views.py          # 业务逻辑

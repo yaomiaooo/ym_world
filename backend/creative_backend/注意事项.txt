@@ -1,0 +1,7 @@
+creative_backend/
+  __init__.py
+  settings.py    # 核心配置文件
+  urls.py        # 主路由文件
+  asgi.py
+  wsgi.py
+manage.py        # 项目管理脚本
